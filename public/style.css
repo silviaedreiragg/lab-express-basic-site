@@ -1,0 +1,45 @@
+* {
+    background-color: antiquewhite;
+}
+.navbar {
+    display: flex;
+    justify-content: flex-start;
+    font-size: medium;
+}
+
+.work {
+    display: flex;
+    align-self: center;
+    justify-content: space-between;   
+}
+
+.home-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+#home, #about, #works {
+    padding: 20px;
+    margin: 5px solid blue;
+    background-color:aquamarine;
+    color: brown;
+}
+
+.home-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.baby {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    max-width: 200px;
+}
+
+.baby {
+    display: flex;
+    justify-content: space-around;
+}
